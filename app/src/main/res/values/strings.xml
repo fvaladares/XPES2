@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XPE S2</string>
+    <string name="lbl_button_enviar">Enviar</string>
+    <string name="msg_mensagem">Insira sua mensagem</string>
+    <string name="lbl_retornar">Retornar</string>
+    <string name="err_sem_dados">A activity não retornou dados.</string>
+    <string name="err_tag_nao_encontrada">A tag de retorno não foi encontrada.</string>
+    <string name="msg_retorno_link_enquete">https://online.igti.com.br/courses/5937/quizzes/72321</string>
+    <string name="err_campo_vazio">Este campo deve ser preenchido</string>
+</resources>
